@@ -1,6 +1,6 @@
 name: 'Erotic Art - Drawings & Paintings by ErosArts'
 favicon: null
-layout_spectrum: 0.21226752712391317
+layout_spectrum: 1
 typography_spectrum: 0.9734114450402558
 title: 'Erotic Art - Drawings & Paintings by ErosArts'
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.06921274424530566
-  lightness: 0.7375886994414032
-  saturation: 0.8066827892325819
-  rhythmicContrast: 0.5074442243203521
+    - '#0d0f1b'
+    - '#753437'
+    - '#5c6b94'
+    - '#f7dfc7'
+    - '#2a394c'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
