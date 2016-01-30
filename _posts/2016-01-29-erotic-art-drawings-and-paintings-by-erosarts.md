@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Detail (Oil on Canvas)
-datePublished: '2016-01-30T22:32:11.967Z'
+datePublished: '2016-01-30T22:32:11.659Z'
 dateModified: '2016-01-30T22:31:09.771Z'
 title: 'Erotic Art - Drawings & Paintings by ErosArts'
 author: []
