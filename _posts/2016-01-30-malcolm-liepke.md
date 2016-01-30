@@ -16,8 +16,8 @@ keywords:
   - nosueltesmimano
   - greensullenmorning
 description: 'Artists I Admire:  Malcolm Liepke'
-datePublished: '2016-01-30T22:50:00.234Z'
-dateModified: '2016-01-30T22:49:21.714Z'
+datePublished: '2016-01-30T23:07:39.569Z'
+dateModified: '2016-01-30T23:07:24.205Z'
 author:
   - name: erosarts21
     url: 'http://erosarts21.tumblr.com'
@@ -33,14 +33,14 @@ app_links:
     app_name: Tumblr
     package: com.tumblr
 title: Malcolm Liepke
+sourcePath: _posts/2016-01-30-malcolm-liepke.md
+published: true
 authors: []
 publisher:
   name: Tumblr
   domain: erosarts21.tumblr.com
   url: 'http://tumblr.com'
   favicon: 'http://38.media.tumblr.com/avatar_35951b310f5e_128.png'
-sourcePath: _posts/2016-01-30-malcolm-liepke.md
-published: true
 url: malcolm-liepke/index.html
 _context: 'http://schema.org'
 _type: MediaObject
@@ -48,4 +48,4 @@ _type: MediaObject
 ---
 Artists I Admire:  Malcolm Liepke
 
-<article style=""><h1>Malcolm Liepke</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90d536f719dd6f022ca3eaf39ace9a91ed10c5bb.jpg" /></article>
+<article style=""><h1>Malcolm Liepke</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7e3d8f7f4eb7a95d4d061f53dc32a5796a54b09.jpg" /></article>
