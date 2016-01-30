@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Detail (Oil on Canvas)
-datePublished: '2016-01-29T18:52:25.854Z'
-dateModified: '2016-01-29T18:48:12.805Z'
+datePublished: '2016-01-30T22:32:11.933Z'
+dateModified: '2016-01-30T22:31:09.771Z'
 title: 'Erotic Art - Drawings & Paintings by ErosArts'
 author: []
 sourcePath: _posts/2016-01-29-erotic-art-drawings-and-paintings-by-erosarts.md
@@ -23,4 +23,4 @@ _type: Article
 
 ---
 **Erotic Art**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/838f6607d82343126e518760cf952e0abf420faa.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f3f15a627ca19d1bbce134e18d39657b433d0a9.jpg)
