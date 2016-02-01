@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Visitors must be 18 to enter.  NUDITY and ADULT themes.
-datePublished: '2016-01-30T23:04:14.916Z'
-dateModified: '2016-01-30T23:03:57.809Z'
+datePublished: '2016-02-01T04:44:37.118Z'
+dateModified: '2016-02-01T04:44:12.914Z'
 title: 'Erotic Art - Drawings & Paintings by ErosArts'
 author: []
 sourcePath: _posts/2016-01-29-erotic-art-drawings-and-paintings-by-erosarts.md
@@ -27,4 +27,4 @@ _type: Article
 **Visitors must be 18 to enter.  NUDITY and ADULT themes.**
 
 ****
-![Visitors must be 18 to enter.  NUDITY and ADULT themes.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1684610755d0989fe014a707057e4b9dbb117b1.jpg)
+![Visitors must be 18 to enter.  NUDITY and ADULT themes.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/65b4083938bbd513377309eace585d6bf1090c9a.jpg)
