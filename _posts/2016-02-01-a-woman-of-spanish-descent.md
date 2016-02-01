@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'For Sale - (Red, Blue, and Graphite Pencil Drawing)'
-datePublished: '2016-02-01T05:48:50.032Z'
+datePublished: '2016-02-01T05:48:50.036Z'
 dateModified: '2016-02-01T05:48:31.408Z'
 title: A Woman of Spanish Descent
 author: []
