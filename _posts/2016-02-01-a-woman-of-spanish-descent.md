@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'For Sale - (Red, Blue, and Graphite Pencil Drawing)'
-datePublished: '2016-02-01T05:00:37.693Z'
-dateModified: '2016-02-01T05:00:26.485Z'
+datePublished: '2016-02-01T05:10:27.943Z'
+dateModified: '2016-02-01T05:10:19.879Z'
 title: A Woman of Spanish Descent
 author: []
 sourcePath: _posts/2016-02-01-a-woman-of-spanish-descent.md
