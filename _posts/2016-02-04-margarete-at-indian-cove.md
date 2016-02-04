@@ -1,26 +1,26 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Pencils
-datePublished: '2016-02-04T19:43:12.909Z'
-dateModified: '2016-02-04T19:42:49.908Z'
+description: Pencil Drawing
+datePublished: '2016-02-04T19:46:26.942Z'
+dateModified: '2016-02-04T19:46:19.202Z'
 title: Margarete at Indian Cove
 author: []
+sourcePath: _posts/2016-02-04-margarete-at-indian-cove.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-04-margarete-at-indian-cove.md
-published: true
 url: margarete-at-indian-cove/index.html
-_type: Article
+_type: WebPage
 
 ---
-Margarete at Indian Cove
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/362c8517-c37e-49e5-a340-bf845e832a9e.jpg)
+Margarete at Indian Cove, CA
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c950595d83cb01f65106f2475e457cdd94686ef4.jpg)
