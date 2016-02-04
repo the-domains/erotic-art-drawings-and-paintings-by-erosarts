@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'Red, Blue, and Graphite Pencil Drawing'
-datePublished: '2016-02-04T20:48:44.111Z'
-dateModified: '2016-02-04T20:48:22.846Z'
-title: "Title:  'The Bond'"
+description: 'For Sale.  To Inquire:  Sketch47@hotmail.com'
+datePublished: '2016-02-04T21:59:57.728Z'
+dateModified: '2016-02-04T21:59:16.369Z'
+title: "Title:  'The Bond'  "
 author: []
 authors: []
 publisher:
@@ -22,5 +22,7 @@ url: title-the-bond/index.html
 _type: WebPage
 
 ---
-Title:  'The Bond'
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb74abe9-149b-4ed8-bd3e-6145cac61a51.jpg)
+Title:   'The Bond'
+
+For Sale.  To Inquire:  Sketch47@hotmail.com
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cac17d65-fd8e-42c3-a36d-32599fd179e0.jpg)
