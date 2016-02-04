@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Pencil Drawing
-datePublished: '2016-02-04T19:46:26.942Z'
-dateModified: '2016-02-04T19:46:19.202Z'
+datePublished: '2016-02-04T20:01:32.542Z'
+dateModified: '2016-02-04T20:01:18.801Z'
 title: Margarete at Indian Cove
 author: []
 sourcePath: _posts/2016-02-04-margarete-at-indian-cove.md
@@ -23,4 +23,4 @@ _type: WebPage
 
 ---
 Margarete at Indian Cove, CA
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c950595d83cb01f65106f2475e457cdd94686ef4.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3123485e87b58281a3e87297ba6b579953a48208.jpg)
