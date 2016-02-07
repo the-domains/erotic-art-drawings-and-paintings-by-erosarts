@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Erotic Art - Drawings & Paintings by ErosArts]]></title>
         <description><![CDATA[Erotic Art - Drawings & Paintings by ErosArts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.hansenartstudio.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 02:48:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 07 Feb 2016 02:53:40 GMT</lastBuildDate>
+        <atom:link href="http://www.hansenartstudio.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Erotic Drawings and Paintings by ErosArts]]></title>
-            <description><![CDATA[<article><h1>Erotic Drawings and Paintings by ErosArts</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f04d6f6312f6a3a0e0b83ba6d363e49cbbb0c7e8.jpg"></article>]]></description>
-            <link>undefinederotic-drawings-and-paintings-by-erosarts/index.html</link>
+            <description><![CDATA[<article><h1>Erotic Drawings and Paintings by ErosArts</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be8fba106232167eeb4f98856d04f331e6969ef9.jpg"></article>]]></description>
+            <link>http://www.hansenartstudio.org/erotic-drawings-and-paintings-by-erosarts/index.html</link>
             <guid isPermaLink="false">0087b97d-ad06-4e75-bc21-82ea7051e4e6</guid>
-            <pubDate>Sun, 07 Feb 2016 02:48:36 GMT</pubDate>
+            <pubDate>Sun, 07 Feb 2016 02:53:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
