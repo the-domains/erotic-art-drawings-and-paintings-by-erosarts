@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'For Sale.  To Inquire:  Sketch47@hotmail.com'
-datePublished: '2016-02-04T21:59:57.728Z'
-dateModified: '2016-02-04T21:59:16.369Z'
-title: "Title:  'The Bond'  "
+datePublished: '2016-02-08T06:20:54.492Z'
+dateModified: '2016-02-08T06:20:47.246Z'
+title: "Title:  'The Bond'  For Sale:  $300.00"
 author: []
+sourcePath: _posts/2016-02-04-title-the-bond.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-04-title-the-bond.md
-published: true
 url: title-the-bond/index.html
 _type: WebPage
 
