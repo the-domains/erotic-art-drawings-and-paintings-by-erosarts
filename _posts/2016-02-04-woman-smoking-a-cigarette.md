@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Red, Blue, and Graphite Pencils'
-datePublished: '2016-02-07T03:04:22.089Z'
-dateModified: '2016-02-07T03:04:11.759Z'
-title: Woman Smoking a Cigarette
+datePublished: '2016-02-08T06:25:08.646Z'
+dateModified: '2016-02-08T06:25:00.558Z'
+title: "Title:  'Woman Smoking a Cigarette'  $300.00"
 author: []
 sourcePath: _posts/2016-02-04-woman-smoking-a-cigarette.md
 published: true
@@ -22,5 +22,5 @@ url: woman-smoking-a-cigarette/index.html
 _type: WebPage
 
 ---
-Woman Smoking a Cigarette
+Title:  'Woman Smoking a Cigarette'  To inquire:  Sketch47@hotmail.com
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4b7b3ffd91b42606ba1443237aef24088f5424c.jpg)
