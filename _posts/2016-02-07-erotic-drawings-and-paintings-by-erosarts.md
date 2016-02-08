@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Visitors Must be 18 to Enter.  NUDITY and ADULT themes.
-datePublished: '2016-02-07T20:43:03.416Z'
-dateModified: '2016-02-07T20:42:58.321Z'
-title: Erotic Drawings and Paintings by ErosArts
+datePublished: '2016-02-08T06:38:31.626Z'
+dateModified: '2016-02-08T06:38:25.429Z'
+title: "Title:  'Details'  SOLD"
 author: []
 sourcePath: _posts/2016-02-07-erotic-drawings-and-paintings-by-erosarts.md
 published: true
@@ -22,6 +22,7 @@ url: erotic-drawings-and-paintings-by-erosarts/index.html
 _type: Article
 
 ---
-![Visitors Must be 18 to Enter.  NUDITY and ADULT themes.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c45f3f54d6051c805b29cd0920227d9701ce35d.jpg)
+Title:  'Details'  Oil on Canvas.  SOLD
+![Visitors Must be 18 to Enter.  NUDITY and ADULT themes.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fed0b9a901f37c8808359ca5f48c69ed4966842.jpg)
 
 Visitors Must be 18 to Enter.  NUDITY and ADULT themes.
