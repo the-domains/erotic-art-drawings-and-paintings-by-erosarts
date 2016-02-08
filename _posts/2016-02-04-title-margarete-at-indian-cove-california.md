@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: 'For Sale:  To Inquire:  Sketch47@hotmail.com'
-datePublished: '2016-02-05T20:02:10.481Z'
-dateModified: '2016-02-05T20:01:54.015Z'
-title: "Title:  'Margarete at Indian Cove, California"
+description: Colored Pencil Drawing
+datePublished: '2016-02-08T06:17:45.184Z'
+dateModified: '2016-02-08T06:17:39.963Z'
+title: "Title:  'Margarete at Indian Cove, California'  For Sale:  To Inquire:  Sketch47@hotmail.com"
 author: []
 sourcePath: _posts/2016-02-04-title-margarete-at-indian-cove-california.md
 published: true
