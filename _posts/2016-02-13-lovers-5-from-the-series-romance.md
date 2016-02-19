@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-19T20:56:03.652Z'
-dateModified: '2016-02-19T20:55:44.346Z'
+datePublished: '2016-02-19T21:05:13.472Z'
+dateModified: '2016-02-19T21:01:23.451Z'
 title: "Lovers #5  For Sale:  $300.00  (From the series: 'Romance')"
 author: []
 sourcePath: _posts/2016-02-13-lovers-5-from-the-series-romance.md
@@ -23,4 +23,4 @@ _type: WebPage
 
 ---
 Lovers 5  (From the series titled:  'Romance')
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/27cd49b1b4726325be73f057b86b2107cb01a4da.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4441e4d37c4fd74cdd81b1f879563fb16248cd2d.jpg)
