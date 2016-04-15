@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Lovers 5 \_(From the series titled: \_'Romance')"
-datePublished: '2016-03-18T18:56:55.301Z'
-dateModified: '2016-03-18T18:56:23.516Z'
+datePublished: '2016-04-15T17:08:45.047Z'
+dateModified: '2016-04-15T17:08:38.712Z'
 title: "Lovers #5  For Sale:  $300.00  (From the series: 'Romance')"
 author: []
 sourcePath: _posts/2016-02-13-lovers-5-from-the-series-romance.md
