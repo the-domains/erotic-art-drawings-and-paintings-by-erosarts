@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Digital Model Reference
-datePublished: '2016-04-15T17:43:46.507Z'
-dateModified: '2016-04-15T17:43:28.380Z'
+datePublished: '2016-04-17T03:14:17.639Z'
+dateModified: '2016-04-17T03:14:07.570Z'
 title: Study for an Oil Painting
 author: []
 sourcePath: _posts/2016-04-15-study-for-an-oil-painting.md
