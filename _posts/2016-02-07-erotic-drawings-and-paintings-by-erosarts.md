@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Visitors Must be 18 to Enter.  NUDITY and ADULT themes.
-datePublished: '2016-02-13T11:33:41.765Z'
-dateModified: '2016-02-13T11:33:38.253Z'
+description: "Title: \_'Details' \_Oil on Canvas. \_SOLD"
+datePublished: '2016-04-17T03:17:50.597Z'
+dateModified: '2016-04-17T03:17:46.749Z'
 title: "Title:  'Details'  SOLD"
 author: []
 sourcePath: _posts/2016-02-07-erotic-drawings-and-paintings-by-erosarts.md
