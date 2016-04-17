@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Title: \_'Details' \_Oil on Canvas. \_SOLD"
-datePublished: '2016-04-17T03:17:50.597Z'
-dateModified: '2016-04-17T03:17:46.749Z'
+datePublished: '2016-04-17T03:21:14.852Z'
+dateModified: '2016-04-17T03:17:58.393Z'
 title: "Title:  'Details'  SOLD"
 author: []
 sourcePath: _posts/2016-02-07-erotic-drawings-and-paintings-by-erosarts.md
